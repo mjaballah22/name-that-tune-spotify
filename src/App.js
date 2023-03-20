@@ -34,10 +34,10 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">Welcome on the Name that Tune</h1>
+        <h1 className="App-title">Welcome on the Name that Tune Manel</h1>
       </header>
       <div className="App-images">
-        <p>You will have to change the code to run a real game!</p>
+        <p>hello</p>
       </div>
       <div className="App-buttons">
       </div>
